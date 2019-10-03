@@ -1,0 +1,12 @@
+README.md
+setup.py
+mysdk/__init__.py
+mysdk/common.py
+mysdk/icpd_v1.py
+mysdk/version.py
+mysdk.egg-info/PKG-INFO
+mysdk.egg-info/SOURCES.txt
+mysdk.egg-info/dependency_links.txt
+mysdk.egg-info/requires.txt
+mysdk.egg-info/top_level.txt
+mysdk.egg-info/zip-safe
